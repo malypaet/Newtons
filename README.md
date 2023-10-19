@@ -5,4 +5,5 @@ Traduction de "Ueber das Gesetz der Energieverteilung im Norrnalspectrum;
 https://onlinelibrary.wiley.com/doi/epdf/10.1002/andp.19013090310
 
 "On the Law of the Energy Distribution in the Normal Spectrum"
-Here their is the source file in "docx" and the published one on commons wikimedia.
+
+Here we find the source file in "docx" and the published one in "pdf" on commons wikimedia.
